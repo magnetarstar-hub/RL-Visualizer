@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RL-Visualizer/static/css/main.cb088cea.css",
+    "main.js": "/RL-Visualizer/static/js/main.e0d608b8.js",
+    "index.html": "/RL-Visualizer/index.html",
+    "main.cb088cea.css.map": "/RL-Visualizer/static/css/main.cb088cea.css.map",
+    "main.e0d608b8.js.map": "/RL-Visualizer/static/js/main.e0d608b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb088cea.css",
+    "static/js/main.e0d608b8.js"
+  ]
+}
